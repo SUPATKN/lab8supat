@@ -13,6 +13,7 @@ char before(char x){
 	return x;
 }
 
+
 int main(){
 	//Test Case
 	cout << before('A') << "\n";
